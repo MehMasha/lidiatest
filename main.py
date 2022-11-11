@@ -1,2 +1,2 @@
-print('Hello world!')
-print('2')
+if 2 + 2 == 4:
+    print('Математика')
